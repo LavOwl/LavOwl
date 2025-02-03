@@ -3,11 +3,12 @@
   <img align="center" width="550" src="bkgd.jpg" alt="Cozy Room"/>
 </p>
 <p align="center">
-  Holis! Soy Ivy, estudiante de Licenciatura en Informática en la UNLP, subo por acá mis códigos que menos odio &lt;3
+  Holis! Soy Ivy, estudiante de Licenciatura en Sistemas en la UNLP, subo por acá mis códigos que menos odio &lt;3
   <br>
   <br>
   Actualmente trabajando en algunos proyectitos web con Java, y tanteando Deep Learning y Unity en mi tiempo libre!
 </p>
+<p>Contacto: ide088re@gmail.com</p>
 <h2>Lenguajes:</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -34,5 +35,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" width="40" height="40"/>
 </p>
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavOwl&langs_count=10&theme=dark&layout=compact"/></p>
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavOwl&langs_count=8&theme=dark&layout=compact"/></p>
 
