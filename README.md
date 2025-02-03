@@ -1,6 +1,6 @@
 <h1 align="center">Hi, sup?</h1>
 
-<img src="bkgd.jpg" alt="Cozy Room" width="300"/>
+<img align="center" src="bkgd.jpg" alt="Cozy Room"/>
 
 Lenguajes:
 <p>
