@@ -1,7 +1,6 @@
 <h1 align="center">Hi, sup?</h1>
-```markdown
-<md>![Cozy room](bkgd.png)
-```
+
+<img src="bkgd.png" alt="Cozy Room" width="300"/>
 
 Lenguajes:
 <p>
