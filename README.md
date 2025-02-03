@@ -8,7 +8,7 @@
   <br>
   Actualmente trabajando en algunos proyectitos web con Java, y tanteando Deep Learning y Unity en mi tiempo libre!
 </p>
-<p>Contacto: **ide088re@gmail.com**</p>
+Contacto: **ide088re@gmail.com**
 <h2>Lenguajes:</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
