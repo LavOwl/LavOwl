@@ -2,12 +2,12 @@
 <p align="center">
   <img align="center" width="550" src="bkgd.jpg" alt="Cozy Room"/>
 </p>
-<main align="center">
+<p align="center">
   Holis! Soy Ivy, estudiante de Licenciatura en Informática en la UNLP, subo por acá mis códigos que menos odio &lt;3
   <br>
   <br>
   Actualmente trabajando en algunos proyectitos web con Java, y tanteando Deep Learning y Unity en mi tiempo libre!
-</main>
+</p>
 <h2>Lenguajes:</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
