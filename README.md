@@ -3,10 +3,10 @@
   <img align="center" width="550" src="bkgd.jpg" alt="Cozy Room"/>
 </p>
 <p align="center">
-  Holis! Soy Ivy, estudiante de Licenciatura en Sistemas en la UNLP, subo por acá mis códigos que menos odio &lt;3
+  Holis! Soy Ivy, estudiante de cuarto año de <a href="https://www.info.unlp.edu.ar/licenciatura-en-sistemas-plan-2021/">Licenciatura en Sistemas</a> en la UNLP, subo por acá mis códigos que menos odio &lt;3
   <br>
   <br>
-  Actualmente trabajando en algunos proyectitos web con Java, y tanteando Deep Learning y Unity en mi tiempo libre!
+  Actualmente estoy trabajando en algunos proyectos web con Java, y tanteando Deep Learning y Reverse-Engineering en mi tiempo libre!
 </p>
 <p>Contacto: <a href="mailto:ide088re@gmail.com">ide088re@gmail.com</a></p>
 <h2>Lenguajes:</h2>
