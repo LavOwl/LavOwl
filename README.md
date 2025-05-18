@@ -6,7 +6,7 @@
   Holis! Soy Ivy, estudiante de cuarto año de <a href="https://www.info.unlp.edu.ar/licenciatura-en-sistemas-plan-2021/">Licenciatura en Sistemas</a> en la UNLP, subo por acá mis códigos que menos odio &lt;3
   <br>
   <br>
-  Actualmente estoy trabajando en algunos proyectos web con Java, y tanteando Deep Learning y Reverse-Engineering en mi tiempo libre!
+  Actualmente estoy trabajando en algunos proyectos web con Java y React, y tanteando Machine Learning en mi tiempo libre!
 </p>
 <p>Contacto: <a href="mailto:ide088re@gmail.com">ide088re@gmail.com</a></p>
 <h2>Lenguajes:</h2>
