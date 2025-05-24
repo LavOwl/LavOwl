@@ -1,6 +1,6 @@
 <h1 align="center">Hi, sup? ✨</h1>
 <p align="center">
-  <img align="center" width="550" src="bkgd.jpg" alt="Cozy Room"/>
+  <img align="center" width="550" src="Desktop.jpg" alt="Cozy Room"/>
 </p>
 <p align="center">
   Holis! Soy Ivy, estudiante de cuarto año de <a href="https://www.info.unlp.edu.ar/licenciatura-en-sistemas-plan-2021/">Licenciatura en Sistemas</a> en la UNLP, subo por acá mis códigos que menos odio &lt;3
