@@ -1,5 +1,5 @@
 <h1 align="center">Hi, sup? ✨</h1>
-<div style="border-radius: 10px; padding: 1em; background: linear-gradient(45deg, #ff6bff, #6bffb8);">Test</div>
+<div style="border-radius: 10px; padding: 1em; background: blue;">Test</div>
 <p align="center">
   <img align="center" width="550" src="Desktop.jpg" alt="Cozy Room"/>
 </p>
